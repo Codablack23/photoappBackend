@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238504003364",
+    "project_id": "cloud-images-5d0ee",
+    "storage_bucket": "cloud-images-5d0ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238504003364:android:5deafa3c377770f30955b1",
+        "android_client_info": {
+          "package_name": "com.example.photoapp_backend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238504003364-m695lebu19hb4smnvntbr5md0ltllu0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd_yLv11a1pcM0Vz68S5A8CVlPvb4aRtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238504003364-m695lebu19hb4smnvntbr5md0ltllu0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
